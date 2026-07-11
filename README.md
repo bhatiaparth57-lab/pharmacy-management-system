@@ -1,4 +1,4 @@
-💊 DMS Medical Store - Pharmacy Management System
+💊 Pharmacy Management System
 A robust, backend-driven Command Line Interface (CLI) application designed to manage pharmacy operations. This system handles inventory management, real-time database updates, and customer billing, making it a complete solution for day-to-day medical store administration.
 
 Built over the course of 3 months, this project focuses on raw backend mechanics, database relational mapping, and interactive terminal interfaces.
